@@ -1,5 +1,0 @@
-; __autoload__.php file located inside config folder,
-; acting on autoloading predefined libraries, configurations, helpers, etc
-
-; Load.php file located inside helper folder,
-; acting on loading specific library, configuration and helper individually, when needed.
